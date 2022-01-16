@@ -1,0 +1,412 @@
+AGE,GENDER,PMPCOVID-19,FFP,FPPS,UPSET,HISSUE,ALCDRUINV,ANGER,SL6-8,SUICIDAL,TISM,TWF,WORRIEDF,HARASS,LOIW,INDES,RIDICULED,NIGHTSCREENTIME,WORRIEDP,ATHENS INSOMNIA SCORE,INSOMNIAC,PHQ-9 SCORE,DEPRESSED
+23,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,More then 5 hour,2-4 hour,No,No,No,No,No,2-4 hour,Yes,6,Yes,2,0
+26,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,More then 5 hour,2-4 hour,No,No,No,Yes,No,Less then 1 hour,No,7,Yes,4,0
+24,Female,No,No Financial Problem,No,Yes,No,No,Yes,Yes,No,More then 5 hour,Less then 1 hour,Yes,No,Yes,Yes,No,More then 5 hour,Yes,9,Yes,9,1
+22,Female,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+22,Male,No,Low Financial Problem,No,No,Yes,Yes,No,No,No,More then 5 hour,2-4 hour,No,No,Yes,Yes,No,More then 5 hour,Yes,15,Yes,5,1
+23,Male,Yes,Serious FInancial Problem,No,No,No,Yes,No,Yes,No,More then 5 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,10,Yes,4,0
+21,Female,Yes,Low Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,Yes,Yes,No,Less then 1 hour,Yes,8,Yes,2,0
+24,Male,No,Serious FInancial Problem,Yes,Yes,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,1,No,11,1
+18,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,More then 5 hour,2-4 hour,Yes,No,No,No,No,More then 5 hour,No,12,Yes,4,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,Less then 1 hour,2-4 hour,No,No,No,No,No,Less then 1 hour,No,1,No,6,1
+26,Male,No,Low Financial Problem,No,No,Yes,No,No,Yes,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,16,Yes,6,1
+29,Male,No,Serious FInancial Problem,Yes,No,No,No,No,No,No,More then 5 hour,2-4 hour,Yes,No,No,No,No,2-4 hour,No,16,Yes,6,1
+32,Male,No,No Financial Problem,No,No,No,No,No,Yes,No,More then 5 hour,More then 5 hour,No,No,Yes,Yes,No,More then 5 hour,Yes,2,No,12,1
+26,Male,No,Low Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,Yes,Yes,No,2-4 hour,Yes,6,Yes,0,0
+25,Male,No,Serious FInancial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,Yes,Yes,No,2-4 hour,No,6,Yes,13,1
+27,Male,No,Serious FInancial Problem,No,No,No,Yes,Yes,No,No,More then 5 hour,More then 5 hour,Yes,No,No,Yes,No,More then 5 hour,No,10,Yes,8,1
+27,Male,No,Low Financial Problem,No,No,No,Yes,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+26,Male,Yes,Serious FInancial Problem,No,No,No,No,Yes,Yes,No,Less then 1 hour,2-4 hour,Yes,No,No,Yes,Yes,2-4 hour,Yes,7,Yes,10,1
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,Yes,No,Yes,Yes,No,More then 5 hour,Yes,5,No,5,1
+21,Male,Yes,Low Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,Yes,Yes,Yes,No,No,2-4 hour,Yes,11,Yes,7,1
+22,Female,Yes,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,0,0
+24,Female,No,Low Financial Problem,No,No,Yes,No,No,Yes,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+22,Male,No,Low Financial Problem,No,No,No,Yes,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,3,0
+24,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,Yes,Yes,No,2-4 hour,No,6,Yes,3,0
+21,Male,Yes,Low Financial Problem,Yes,No,Yes,No,No,No,No,More then 5 hour,2-4 hour,Yes,No,Yes,Yes,No,More then 5 hour,Yes,11,Yes,10,1
+27,Male,No,Serious FInancial Problem,Yes,Yes,Yes,No,Yes,Yes,No,More then 5 hour,2-4 hour,Yes,No,Yes,Yes,No,More then 5 hour,No,14,Yes,5,1
+20,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,0,0
+29,Female,No,Low Financial Problem,No,No,No,No,Yes,Yes,Yes,Less then 1 hour,Less then 1 hour,No,No,No,Yes,No,Less then 1 hour,No,6,Yes,3,0
+26,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,4,No,0,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,0,0
+24,Male,No,Low Financial Problem,No,Yes,No,Yes,Yes,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,1,0
+25,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,0,No,1,0
+20,Female,Yes,Low Financial Problem,No,No,No,No,No,Yes,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,1,No,0,0
+19,Male,Yes,Serious FInancial Problem,No,Yes,No,No,Yes,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,Less then 1 hour,No,13,Yes,10,1
+33,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,6,Yes,5,1
+28,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,2-4 hour,2-4 hour,No,No,Yes,No,No,Less then 1 hour,No,8,Yes,3,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+28,Male,No,Serious FInancial Problem,No,No,No,Yes,No,No,No,More then 5 hour,More then 5 hour,No,No,No,Yes,No,More then 5 hour,No,7,Yes,3,0
+24,Male,No,Low Financial Problem,No,No,No,No,Yes,Yes,No,2-4 hour,More then 5 hour,Yes,No,No,Yes,No,2-4 hour,No,0,No,15,1
+21,Male,Yes,Low Financial Problem,No,Yes,Yes,No,No,Yes,No,More then 5 hour,2-4 hour,No,No,Yes,Yes,No,Less then 1 hour,No,14,Yes,4,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,0,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+22,Male,No,Low Financial Problem,Yes,No,Yes,No,Yes,No,No,More then 5 hour,Less then 1 hour,Yes,No,Yes,Yes,No,More then 5 hour,Yes,7,Yes,10,1
+21,Male,Yes,Low Financial Problem,No,No,Yes,No,Yes,No,No,2-4 hour,More then 5 hour,Yes,Yes,Yes,No,No,2-4 hour,No,15,Yes,3,0
+22,Female,Yes,Low Financial Problem,No,Yes,No,No,Yes,Yes,No,More then 5 hour,More then 5 hour,Yes,No,No,No,No,More then 5 hour,Yes,9,Yes,18,1
+19,Female,Yes,Low Financial Problem,No,Yes,Yes,No,Yes,No,No,More then 5 hour,2-4 hour,Yes,No,Yes,Yes,No,2-4 hour,Yes,6,Yes,5,1
+21,Female,Yes,No Financial Problem,No,Yes,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,Yes,2,No,2,0
+21,Male,Yes,Serious FInancial Problem,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Less then 1 hour,Less then 1 hour,Yes,Yes,Yes,Yes,Yes,Less then 1 hour,Yes,0,No,0,0
+22,Female,No,No Financial Problem,Yes,Yes,No,No,Yes,No,Yes,More then 5 hour,More then 5 hour,Yes,No,Yes,Yes,Yes,2-4 hour,Yes,2,No,15,1
+20,Male,No,Low Financial Problem,No,Yes,No,No,No,Yes,Yes,More then 5 hour,Less then 1 hour,Yes,No,Yes,No,Yes,More then 5 hour,Yes,8,Yes,13,1
+24,Male,Yes,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,Yes,No,Yes,No,No,More then 5 hour,No,5,No,2,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,More then 5 hour,More then 5 hour,No,Yes,No,No,No,2-4 hour,No,3,No,0,0
+22,Female,No,Low Financial Problem,No,No,No,No,Yes,Yes,No,More then 5 hour,More then 5 hour,Yes,No,No,Yes,No,2-4 hour,No,4,No,3,0
+22,Female,No,Low Financial Problem,No,No,No,No,Yes,Yes,No,2-4 hour,More then 5 hour,No,No,Yes,Yes,No,More then 5 hour,No,7,Yes,7,1
+24,Male,No,Serious FInancial Problem,No,Yes,No,No,No,Yes,No,More then 5 hour,2-4 hour,Yes,No,Yes,Yes,No,2-4 hour,Yes,6,Yes,3,0
+26,Male,No,Serious FInancial Problem,No,No,No,No,No,Yes,No,2-4 hour,2-4 hour,No,No,Yes,No,No,2-4 hour,No,9,Yes,3,0
+25,Male,No,Low Financial Problem,No,No,Yes,Yes,Yes,Yes,No,2-4 hour,Less then 1 hour,No,No,No,No,No,2-4 hour,No,18,Yes,5,1
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,Yes,No,No,More then 5 hour,No,7,Yes,3,0
+31,Male,Yes,Serious FInancial Problem,No,No,No,No,No,Yes,No,More then 5 hour,Less then 1 hour,Yes,No,Yes,Yes,No,2-4 hour,Yes,2,No,5,1
+21,Female,Yes,Serious FInancial Problem,No,Yes,Yes,No,Yes,Yes,No,2-4 hour,More then 5 hour,Yes,No,Yes,Yes,No,2-4 hour,Yes,1,No,9,1
+29,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,Yes,Yes,No,More then 5 hour,No,9,Yes,5,1
+24,Male,No,No Financial Problem,No,No,No,No,No,Yes,No,2-4 hour,Less then 1 hour,No,No,Yes,Yes,No,2-4 hour,No,3,No,7,1
+28,Male,No,Low Financial Problem,No,No,No,Yes,No,Yes,No,2-4 hour,More then 5 hour,Yes,No,Yes,Yes,No,2-4 hour,No,9,Yes,14,1
+31,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,2-4 hour,2-4 hour,No,No,Yes,Yes,No,2-4 hour,Yes,22,Yes,13,1
+21,Female,Yes,Serious FInancial Problem,Yes,Yes,Yes,No,Yes,Yes,Yes,Less then 1 hour,2-4 hour,Yes,Yes,No,Yes,No,Less then 1 hour,No,19,Yes,27,1
+24,Male,No,Low Financial Problem,No,No,Yes,Yes,Yes,Yes,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,18,Yes,9,1
+25,Male,Yes,Serious FInancial Problem,No,Yes,No,No,No,No,No,2-4 hour,2-4 hour,Yes,No,Yes,Yes,No,2-4 hour,No,6,Yes,4,0
+25,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,Yes,Yes,No,More then 5 hour,No,3,No,9,1
+25,Male,No,Low Financial Problem,No,No,No,Yes,Yes,Yes,No,2-4 hour,2-4 hour,Yes,No,Yes,Yes,No,2-4 hour,No,7,Yes,13,1
+23,Female,No,Low Financial Problem,No,No,No,No,No,Yes,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+21,Male,No,Low Financial Problem,No,No,No,No,Yes,Yes,No,More then 5 hour,More then 5 hour,Yes,No,Yes,Yes,No,More then 5 hour,Yes,14,Yes,10,1
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,0,0
+23,Male,No,Serious FInancial Problem,No,No,No,No,No,No,No,Less then 1 hour,More then 5 hour,No,No,No,No,No,Less then 1 hour,No,3,No,5,1
+23,Male,No,Low Financial Problem,No,No,Yes,No,No,Yes,No,More then 5 hour,More then 5 hour,No,No,Yes,Yes,No,More then 5 hour,Yes,16,Yes,18,1
+24,Male,No,Low Financial Problem,No,No,No,Yes,Yes,Yes,No,More then 5 hour,More then 5 hour,Yes,No,Yes,Yes,No,More then 5 hour,Yes,21,Yes,14,1
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,Yes,No,Yes,Yes,No,More then 5 hour,No,1,No,17,1
+22,Male,No,Low Financial Problem,Yes,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,0,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+23,Female,No,Serious FInancial Problem,Yes,No,Yes,No,No,No,No,Less then 1 hour,2-4 hour,Yes,No,Yes,No,No,Less then 1 hour,No,6,Yes,8,1
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,9,1
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,2,No,1,0
+22,Male,No,Low Financial Problem,Yes,No,Yes,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,4,No,1,0
+21,Female,Yes,Serious FInancial Problem,Yes,No,Yes,No,No,Yes,No,2-4 hour,More then 5 hour,No,No,Yes,Yes,No,2-4 hour,No,13,Yes,6,1
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,0,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,1,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,2-4 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,1,No,0,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+23,Male,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,4,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,0,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,2,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,9,1
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+23,Female,Yes,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,8,Yes,1,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,1,0
+22,Male,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+24,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+21,Male,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,2,0
+22,Female,No,Serious FInancial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,10,Yes,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+20,Female,No,Low Financial Problem,Yes,No,Yes,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,3,No,2,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+23,Female,Yes,Serious FInancial Problem,No,No,Yes,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+20,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+20,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+20,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+20,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+20,Male,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,0,No,1,0
+22,Female,No,Low Financial Problem,Yes,No,No,Yes,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,4,No,3,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,Less then 1 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,2,0
+21,Female,No,Serious FInancial Problem,No,No,No,Yes,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,5,No,3,0
+21,Female,No,Low Financial Problem,Yes,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,4,0
+20,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,5,1
+20,Male,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,0,No,4,0
+21,Male,Yes,Serious FInancial Problem,Yes,No,Yes,Yes,No,Yes,No,Less then 1 hour,Less then 1 hour,No,No,Yes,No,No,Less then 1 hour,No,17,Yes,11,1
+24,Male,No,Serious FInancial Problem,No,No,Yes,Yes,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,3,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+20,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,4,0
+24,Female,No,Low Financial Problem,Yes,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+24,Male,Yes,Low Financial Problem,Yes,No,Yes,Yes,No,No,No,2-4 hour,More then 5 hour,No,No,Yes,No,No,2-4 hour,No,8,Yes,2,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,Yes,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,3,No,1,0
+19,Female,No,No Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,3,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,2,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,2,0
+20,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,4,No,4,0
+20,Female,No,Low Financial Problem,Yes,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,3,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,0,No,1,0
+23,Male,No,Low Financial Problem,No,No,No,Yes,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+19,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+24,Male,No,No Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+24,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,3,0
+22,Female,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,0,0
+21,Female,Yes,Low Financial Problem,No,No,Yes,Yes,No,No,No,Less then 1 hour,More then 5 hour,No,No,No,No,No,Less then 1 hour,No,7,Yes,1,0
+19,Male,No,No Financial Problem,Yes,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+19,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,3,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,3,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,Yes,No,No,More then 5 hour,No,3,No,1,0
+19,Female,No,Low Financial Problem,No,No,No,No,No,Yes,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,4,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+20,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,7,Yes,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,4,No,3,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+25,Female,No,Serious FInancial Problem,No,No,No,No,No,No,No,Less then 1 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,4,No,1,0
+21,Female,No,Low Financial Problem,Yes,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+24,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,3,0
+20,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,3,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,0,0
+23,Female,Yes,Low Financial Problem,Yes,No,Yes,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+22,Male,No,Low Financial Problem,Yes,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+20,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,3,0
+19,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,2,No,2,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+20,Female,Yes,Serious FInancial Problem,Yes,No,Yes,Yes,No,No,No,Less then 1 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,10,Yes,7,1
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,Less then 1 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,3,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,2-4 hour,No,2,No,1,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,5,No,2,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+19,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+19,Male,No,Serious FInancial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,4,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,2,0
+23,Female,No,Low Financial Problem,Yes,No,No,Yes,No,Yes,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,2,No,4,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+21,Male,No,Serious FInancial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,6,1
+21,Female,Yes,Low Financial Problem,No,No,Yes,Yes,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,10,Yes,13,1
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,2,0
+20,Female,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,2,No,2,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,2,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,Yes,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,4,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,Yes,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,12,Yes,2,0
+20,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,4,0
+20,Male,No,No Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,2,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,Less then 1 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+19,Male,No,Serious FInancial Problem,Yes,No,Yes,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,2,0
+19,Male,No,Low Financial Problem,No,Yes,Yes,No,No,Yes,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,5,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,Less then 1 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,2,0
+23,Female,Yes,Serious FInancial Problem,Yes,No,Yes,Yes,No,Yes,No,Less then 1 hour,More then 5 hour,No,No,Yes,No,No,More then 5 hour,No,4,No,8,1
+20,Female,No,Serious FInancial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+24,Male,No,Low Financial Problem,Yes,No,Yes,No,Yes,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,2,No,2,0
+22,Male,No,Low Financial Problem,Yes,No,Yes,Yes,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,2,0
+19,Female,No,Low Financial Problem,Yes,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,2,0
+21,Male,No,Low Financial Problem,No,No,Yes,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+21,Male,No,Low Financial Problem,No,No,No,Yes,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,Yes,No,More then 5 hour,No,3,No,5,1
+22,Male,Yes,Serious FInancial Problem,Yes,No,Yes,Yes,No,No,No,2-4 hour,2-4 hour,No,No,Yes,No,No,2-4 hour,No,4,No,0,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,2,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,5,No,2,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,6,Yes,6,1
+21,Male,No,Serious FInancial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,6,Yes,1,0
+20,Female,No,Low Financial Problem,No,No,No,No,No,Yes,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,5,No,1,0
+20,Female,No,Low Financial Problem,No,No,No,No,Yes,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,2,No,2,0
+22,Male,No,Low Financial Problem,No,No,Yes,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,8,Yes,5,1
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,2,0
+22,Male,No,Serious FInancial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,4,0
+21,Male,No,Serious FInancial Problem,No,No,Yes,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,4,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+24,Male,Yes,Serious FInancial Problem,No,No,Yes,No,No,Yes,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,5,1
+21,Female,No,Low Financial Problem,Yes,No,Yes,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+20,Female,No,Serious FInancial Problem,Yes,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,7,Yes,0,0
+19,Female,No,Low Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+20,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,7,1
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Female,No,Serious FInancial Problem,Yes,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,0,0
+20,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,1,0
+19,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,4,No,2,0
+23,Male,No,No Financial Problem,Yes,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,6,1
+22,Female,No,Serious FInancial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+21,Female,No,Low Financial Problem,No,No,Yes,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+20,Male,Yes,Low Financial Problem,Yes,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+19,Female,No,Low Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+19,Male,No,Serious FInancial Problem,Yes,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,3,No,3,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,3,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,5,1
+23,Female,No,Low Financial Problem,No,No,Yes,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,4,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,3,0
+19,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,3,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,4,No,2,0
+19,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,6,1
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,2,0
+22,Female,No,No Financial Problem,Yes,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,9,1
+20,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,6,1
+21,Female,No,Serious FInancial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,3,0
+19,Female,No,Low Financial Problem,No,No,No,No,Yes,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,3,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,5,No,6,1
+20,Male,No,Serious FInancial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,3,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,2,No,3,0
+24,Female,No,No Financial Problem,Yes,No,Yes,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,4,No,2,0
+22,Female,No,No Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,2,0
+20,Female,No,No Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,0,No,5,1
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,4,No,2,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,4,0
+22,Male,No,Low Financial Problem,Yes,Yes,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,2-4 hour,No,2,No,1,0
+19,Female,No,Low Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,Yes,2,No,4,0
+20,Female,No,No Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,9,Yes,7,1
+20,Male,No,Low Financial Problem,No,No,No,No,Yes,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,4,0
+20,Female,Yes,Low Financial Problem,Yes,No,No,Yes,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,3,0
+20,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,2,No,2,0
+20,Female,No,Serious FInancial Problem,No,No,Yes,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,2,No,5,1
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,2-4 hour,No,1,No,2,0
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,2,0
+21,Male,No,No Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,3,No,3,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,5,1
+22,Male,No,Serious FInancial Problem,Yes,No,No,Yes,Yes,Yes,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,8,Yes,4,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+20,Female,No,Low Financial Problem,Yes,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+21,Male,No,Low Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,5,No,3,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+23,Male,No,Serious FInancial Problem,No,No,Yes,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Male,Yes,Serious FInancial Problem,Yes,Yes,Yes,No,Yes,Yes,No,2-4 hour,More then 5 hour,Yes,No,Yes,Yes,No,More then 5 hour,No,1,No,10,1
+22,Female,Yes,Low Financial Problem,No,Yes,No,No,Yes,Yes,No,Less then 1 hour,Less then 1 hour,Yes,No,Yes,Yes,No,More then 5 hour,Yes,6,Yes,11,1
+23,Male,Yes,Serious FInancial Problem,Yes,Yes,No,No,Yes,Yes,No,2-4 hour,More then 5 hour,Yes,Yes,Yes,Yes,Yes,More then 5 hour,Yes,15,Yes,24,1
+22,Male,No,Low Financial Problem,Yes,Yes,No,No,No,No,No,More then 5 hour,Less then 1 hour,Yes,No,Yes,Yes,No,2-4 hour,No,8,Yes,11,1
+22,Male,Yes,Serious FInancial Problem,No,No,Yes,No,Yes,Yes,No,More then 5 hour,2-4 hour,Yes,Yes,Yes,Yes,No,2-4 hour,Yes,3,No,9,1
+22,Female,Yes,Serious FInancial Problem,Yes,Yes,No,No,Yes,No,No,More then 5 hour,More then 5 hour,Yes,No,Yes,Yes,Yes,2-4 hour,Yes,10,Yes,13,1
+19,Female,Yes,Low Financial Problem,Yes,Yes,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,Yes,No,No,2-4 hour,No,4,No,4,0
+22,Male,Yes,Serious FInancial Problem,Yes,Yes,No,No,Yes,Yes,Yes,Less then 1 hour,Less then 1 hour,Yes,Yes,Yes,Yes,Yes,Less then 1 hour,Yes,9,Yes,11,1
+25,Male,Yes,No Financial Problem,Yes,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,2-4 hour,No,2,No,8,1
+21,Male,No,Low Financial Problem,No,No,Yes,No,Yes,No,No,More then 5 hour,2-4 hour,Yes,No,No,Yes,No,2-4 hour,No,1,No,6,1
+22,Female,Yes,Serious FInancial Problem,Yes,Yes,Yes,No,Yes,Yes,No,More then 5 hour,Less then 1 hour,Yes,Yes,Yes,Yes,No,2-4 hour,No,11,Yes,15,1
+21,Male,No,Low Financial Problem,No,No,No,No,Yes,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,7,Yes,11,1
+22,Female,Yes,Serious FInancial Problem,No,Yes,No,No,Yes,No,No,2-4 hour,2-4 hour,Yes,No,No,No,No,2-4 hour,No,5,No,7,1
+20,Female,Yes,Low Financial Problem,No,Yes,No,No,Yes,No,Yes,2-4 hour,Less then 1 hour,Yes,No,No,No,Yes,2-4 hour,No,6,Yes,11,1
+22,Female,Yes,No Financial Problem,No,Yes,No,No,Yes,Yes,No,2-4 hour,2-4 hour,Yes,Yes,Yes,Yes,Yes,Less then 1 hour,Yes,13,Yes,10,1
+24,Male,Yes,Low Financial Problem,Yes,Yes,Yes,Yes,No,Yes,No,More then 5 hour,Less then 1 hour,Yes,No,Yes,Yes,No,More then 5 hour,Yes,8,Yes,5,1
+22,Female,Yes,Low Financial Problem,Yes,Yes,No,No,No,No,Yes,More then 5 hour,More then 5 hour,Yes,No,No,Yes,No,2-4 hour,No,4,No,9,1
+23,Male,No,No Financial Problem,No,Yes,Yes,No,No,Yes,No,2-4 hour,More then 5 hour,No,Yes,No,No,No,2-4 hour,No,3,No,7,1
+21,Female,Yes,Low Financial Problem,Yes,Yes,No,No,No,Yes,No,2-4 hour,More then 5 hour,Yes,No,Yes,Yes,No,2-4 hour,Yes,6,Yes,8,1
+24,Male,Yes,Low Financial Problem,Yes,Yes,Yes,No,No,Yes,No,More then 5 hour,More then 5 hour,Yes,No,Yes,Yes,No,More then 5 hour,Yes,8,Yes,5,1
+23,Male,No,Low Financial Problem,No,Yes,No,No,Yes,Yes,No,More then 5 hour,Less then 1 hour,Yes,No,Yes,Yes,No,More then 5 hour,Yes,13,Yes,11,1
+21,Male,Yes,Low Financial Problem,No,No,No,No,Yes,Yes,No,2-4 hour,More then 5 hour,Yes,No,No,No,Yes,2-4 hour,Yes,5,No,5,1
+25,Male,No,Serious FInancial Problem,No,Yes,Yes,No,No,Yes,No,Less then 1 hour,More then 5 hour,Yes,No,No,No,No,Less then 1 hour,No,0,No,4,0
+22,Female,Yes,Low Financial Problem,No,Yes,Yes,No,Yes,No,Yes,2-4 hour,Less then 1 hour,Yes,Yes,Yes,Yes,No,More then 5 hour,Yes,16,Yes,20,1
+23,Male,Yes,Low Financial Problem,No,No,Yes,No,Yes,No,No,2-4 hour,2-4 hour,Yes,Yes,Yes,Yes,Yes,Less then 1 hour,Yes,12,Yes,14,1
+19,Male,Yes,Low Financial Problem,Yes,Yes,No,No,Yes,Yes,No,2-4 hour,2-4 hour,Yes,Yes,Yes,Yes,No,2-4 hour,Yes,14,Yes,3,0
+26,Male,No,Low Financial Problem,No,Yes,Yes,No,Yes,Yes,Yes,More then 5 hour,Less then 1 hour,Yes,Yes,Yes,Yes,No,2-4 hour,Yes,5,No,11,1
+21,Male,Yes,Low Financial Problem,Yes,Yes,Yes,No,Yes,Yes,Yes,More then 5 hour,Less then 1 hour,Yes,Yes,Yes,Yes,Yes,More then 5 hour,Yes,8,Yes,9,1
+21,Male,No,No Financial Problem,No,No,No,No,Yes,Yes,Yes,2-4 hour,More then 5 hour,Yes,Yes,No,No,No,2-4 hour,Yes,6,Yes,1,0
+22,Female,Yes,Low Financial Problem,No,Yes,No,No,Yes,Yes,Yes,More then 5 hour,More then 5 hour,Yes,No,Yes,Yes,No,2-4 hour,Yes,18,Yes,17,1
+24,Male,No,Low Financial Problem,Yes,No,No,No,No,Yes,No,2-4 hour,More then 5 hour,No,No,No,Yes,Yes,Less then 1 hour,Yes,6,Yes,13,1
+23,Male,Yes,Low Financial Problem,No,Yes,No,No,No,No,No,2-4 hour,More then 5 hour,Yes,No,Yes,No,No,More then 5 hour,No,5,No,5,1
+21,Female,Yes,No Financial Problem,No,Yes,No,No,No,Yes,Yes,More then 5 hour,More then 5 hour,Yes,No,No,Yes,No,2-4 hour,No,13,Yes,9,1
+22,Female,Yes,Low Financial Problem,No,No,No,No,Yes,No,No,More then 5 hour,More then 5 hour,Yes,No,Yes,No,No,More then 5 hour,Yes,4,No,4,0
+21,Male,Yes,Serious FInancial Problem,Yes,No,Yes,Yes,No,Yes,No,2-4 hour,Less then 1 hour,No,No,Yes,No,No,More then 5 hour,Yes,16,Yes,7,1
+22,Male,No,Low Financial Problem,No,Yes,Yes,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,3,0
+22,Female,No,No Financial Problem,No,Yes,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+21,Female,No,Serious FInancial Problem,Yes,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,4,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+23,Male,No,Low Financial Problem,Yes,No,No,No,Yes,No,No,More then 5 hour,2-4 hour,No,No,Yes,No,No,More then 5 hour,No,2,No,3,0
+23,Male,Yes,Low Financial Problem,No,No,Yes,No,No,No,No,Less then 1 hour,Less then 1 hour,No,Yes,No,No,No,More then 5 hour,No,4,No,1,0
+24,Male,No,Low Financial Problem,Yes,Yes,No,Yes,Yes,Yes,Yes,Less then 1 hour,Less then 1 hour,Yes,No,Yes,No,No,More then 5 hour,Yes,9,Yes,6,1
+20,Female,No,Serious FInancial Problem,No,No,Yes,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,1,No,0,0
+21,Female,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,6,1
+22,Female,Yes,Serious FInancial Problem,No,No,Yes,No,No,No,No,Less then 1 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,8,Yes,1,0
+23,Male,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,Less then 1 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,1,No,0,0
+24,Male,No,No Financial Problem,No,No,No,No,No,No,No,Less then 1 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+23,Female,No,Low Financial Problem,No,No,Yes,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+23,Male,Yes,Low Financial Problem,No,No,Yes,Yes,No,No,No,Less then 1 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,7,Yes,1,0
+22,Female,No,Serious FInancial Problem,Yes,Yes,No,Yes,No,No,No,2-4 hour,More then 5 hour,No,No,Yes,Yes,No,More then 5 hour,Yes,3,No,4,0
+23,Male,No,No Financial Problem,No,No,No,No,No,No,No,Less then 1 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+20,Male,Yes,Serious FInancial Problem,Yes,Yes,Yes,No,No,No,No,More then 5 hour,More then 5 hour,No,Yes,No,No,No,More then 5 hour,Yes,2,No,5,1
+22,Male,No,Serious FInancial Problem,No,No,Yes,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+20,Male,No,No Financial Problem,No,No,No,No,No,Yes,Yes,2-4 hour,More then 5 hour,Yes,No,No,No,No,More then 5 hour,No,5,No,3,0
+24,Male,No,No Financial Problem,Yes,Yes,Yes,No,Yes,Yes,No,More then 5 hour,Less then 1 hour,Yes,Yes,Yes,No,Yes,More then 5 hour,Yes,5,No,4,0
+22,Male,No,Low Financial Problem,No,No,Yes,Yes,No,Yes,No,2-4 hour,Less then 1 hour,No,No,No,Yes,No,Less then 1 hour,No,6,Yes,7,1
+22,Male,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,0,0
+22,Female,No,Low Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,2,No,2,0
+23,Female,Yes,Serious FInancial Problem,Yes,No,Yes,No,No,Yes,No,2-4 hour,Less then 1 hour,No,Yes,Yes,Yes,No,More then 5 hour,Yes,9,Yes,11,1
+23,Male,No,Low Financial Problem,Yes,No,No,No,Yes,No,Yes,Less then 1 hour,2-4 hour,No,Yes,No,No,No,More then 5 hour,No,8,Yes,9,1
+21,Male,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,3,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,4,No,1,0
+20,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+20,Female,No,Serious FInancial Problem,No,No,Yes,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+20,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,4,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,Yes,No,No,No,More then 5 hour,More then 5 hour,No,Yes,No,No,No,More then 5 hour,No,1,No,0,0
+21,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,1,No,9,1
+22,Male,No,Serious FInancial Problem,No,Yes,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,Yes,No,No,More then 5 hour,Yes,5,No,6,1
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,5,No,1,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,6,Yes,9,1
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+21,Female,No,No Financial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+22,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+22,Female,Yes,Serious FInancial Problem,No,No,Yes,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,2-4 hour,No,0,No,0,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,2-4 hour,No,7,Yes,9,1
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+22,Female,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,Less then 1 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+23,Male,No,Serious FInancial Problem,No,Yes,Yes,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+23,Female,No,Serious FInancial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+23,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+23,Male,No,Serious FInancial Problem,No,No,Yes,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,2,No,0,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+23,Female,No,Low Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+23,Female,No,Serious FInancial Problem,No,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+20,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+22,Female,No,Low Financial Problem,No,No,Yes,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,2,No,1,0
+22,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,3,No,2,0
+25,Male,No,Low Financial Problem,Yes,Yes,No,No,No,No,No,Less then 1 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+24,Female,No,Serious FInancial Problem,Yes,No,No,No,No,No,No,2-4 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,5,No,6,1
+25,Female,No,No Financial Problem,Yes,No,No,Yes,No,No,No,More then 5 hour,More then 5 hour,No,Yes,No,No,No,More then 5 hour,No,4,No,1,0
+26,Male,Yes,Serious FInancial Problem,Yes,No,No,No,No,No,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,5,No,1,0
+25,Male,No,No Financial Problem,No,No,No,No,Yes,No,No,More then 5 hour,Less then 1 hour,No,No,Yes,Yes,Yes,More then 5 hour,No,3,No,5,1
+24,Male,No,Low Financial Problem,No,Yes,Yes,Yes,Yes,Yes,Yes,Less then 1 hour,Less then 1 hour,Yes,No,Yes,Yes,No,More then 5 hour,No,15,Yes,7,1
+24,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,6,Yes,9,1
+25,Male,No,No Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,4,No,0,0
+27,Male,No,Low Financial Problem,Yes,Yes,Yes,No,No,Yes,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,6,Yes,9,1
+27,Female,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,1,No,1,0
+26,Female,No,No Financial Problem,No,No,No,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+24,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,2,No,2,0
+25,Male,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,5,No,2,0
+28,Female,No,No Financial Problem,No,No,No,No,No,No,No,More then 5 hour,More then 5 hour,No,No,No,No,No,More then 5 hour,No,0,No,0,0
+27,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,0,No,1,0
+29,Male,No,Low Financial Problem,Yes,Yes,Yes,No,No,Yes,No,2-4 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,3,No,1,0
+25,Female,No,Low Financial Problem,No,No,Yes,No,No,No,No,2-4 hour,More then 5 hour,No,No,No,No,No,2-4 hour,No,3,No,1,0
+25,Female,No,Low Financial Problem,No,No,No,No,No,No,No,More then 5 hour,Less then 1 hour,No,No,No,No,No,More then 5 hour,No,7,Yes,5,1
+28,Male,No,Low Financial Problem,No,No,No,Yes,Yes,No,No,2-4 hour,2-4 hour,No,No,Yes,No,No,More then 5 hour,No,4,No,4,0
+30,Male,Yes,Serious FInancial Problem,No,Yes,Yes,Yes,No,No,No,Less then 1 hour,2-4 hour,No,No,No,No,No,More then 5 hour,No,0,No,2,0
