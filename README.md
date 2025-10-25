@@ -66,7 +66,6 @@ Below are some sample visualizations generated from this project:
 | **Data Handling** | pandas, numpy |
 | **Visualization** | matplotlib, seaborn |
 | **Machine Learning** | scikit-learn |
-| **Dashboard Tool** | Power BI |
 | **Environment** | Google Colab / Jupyter Notebook |
 
 ---
